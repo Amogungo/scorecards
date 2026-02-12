@@ -67,7 +67,7 @@ Which categories did you practice?
 
 **Key learning:**
 
----none
+---decodeing in python(base64, hex and ASCII)
 
 **Tomorrow's focus:**
 
