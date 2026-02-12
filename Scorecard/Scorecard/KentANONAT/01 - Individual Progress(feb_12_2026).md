@@ -2,18 +2,18 @@
 
 ## Daily Training Log
 
-**Date:** _______________ | **Training Day:** ___/180 (or ___/90 for 3-month plan)
+**Date:** ____FEB_12_2026____ | **Training Day:** __1_/180 (or _1_/90 for 3-month plan)
 
 ### 1. Time Investment
 
-- [ ] Training time today: _______ hours
-- [ ] Goal met? (Yes/No)
-- [ ] Consistency streak: _____ days
+- [ ] Training time today: __1____ hours
+- [ ] Goal met? (Yes/No) NO
+- [ ] Consistency streak: __0__ days
 
 **Points:**
 
 - 2+ hours = 10 points
-- 1-2 hours = 5 points
+- 1-2 hours = 5 points check
 - <1 hour = 2 points
 - Missed day = 0 points (streak resets)
 
@@ -21,7 +21,7 @@
 
 | Difficulty      | Challenges Solved | Points Earned |
 | --------------- | ----------------- | ------------- |
-| Easy            | _____ × 5 pts     | _____         |
+| Easy            | __5__ × 5 pts     | _25___         |
 | Medium          | _____ × 15 pts    | _____         |
 | Hard            | _____ × 30 pts    | _____         |
 | Expert          | _____ × 50 pts    | _____         |
@@ -29,7 +29,7 @@
 
 ### 3. Quality Indicators
 
-- [ ] Created writeup for at least 1 challenge (+10 pts)
+- [ ] Created writeup for at least 1 challenge (+10 pts) 10
 - [ ] Reviewed 3+ writeups from others (+5 pts)
 - [ ] Learned new technique/tool (+10 pts)
 - [ ] Updated cheat sheet (+5 pts)
@@ -43,13 +43,13 @@ Which categories did you practice?
 
 - [ ] Web Exploitation
 - [ ] Binary Exploitation / Pwn
-- [ ] Cryptography
+- [V ] Cryptography
 - [ ] Reverse Engineering
 - [ ] Forensics
 - [ ] OSINT
 - [ ] Other: ___________
 
-**Primary Specialty:** _____ minutes
+**Primary Specialty:** __60__ minutes
 
 **Secondary Specialty:** _____ minutes
 
@@ -59,16 +59,16 @@ Which categories did you practice?
 
 **What went well today?**
 
----
+---Learning cryptographya nd python
 
 **What challenged you?**
 
----
+---Syntax in python
 
 **Key learning:**
 
----
+---none
 
 **Tomorrow's focus:**
 
----
+---Learn python more.
