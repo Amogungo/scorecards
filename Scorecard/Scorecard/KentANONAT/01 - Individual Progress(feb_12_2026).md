@@ -25,17 +25,17 @@
 | Medium          | _____ × 15 pts    | _____         |
 | Hard            | _____ × 30 pts    | _____         |
 | Expert          | _____ × 50 pts    | _____         |
-| **Daily Total** |                   | **_____**     |
+| **Daily Total** |                   | **__25___**     |
 
 ### 3. Quality Indicators
 
-- [ ] Created writeup for at least 1 challenge (+10 pts) 10
+- [V ] Created writeup for at least 1 challenge (+10 pts) 10
 - [ ] Reviewed 3+ writeups from others (+5 pts)
 - [ ] Learned new technique/tool (+10 pts)
 - [ ] Updated cheat sheet (+5 pts)
 - [ ] Practiced timed challenge (+5 pts)
 
-**Quality Points Total:** _____
+**Quality Points Total:** _10____
 
 ### 4. Category Focus Today
 
