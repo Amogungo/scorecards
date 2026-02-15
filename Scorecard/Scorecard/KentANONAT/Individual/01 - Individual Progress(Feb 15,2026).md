@@ -2,18 +2,18 @@
 
 ## Daily Training Log
 
-**Date:** _______________ | **Training Day:** ___/180 (or ___/90 for 3-month plan)
+**Date:** ____Feb 15 2026____ | **Training Day:** _2_/180 (or _2_/90 for 3-month plan)
 
 ### 1. Time Investment
 
-- [ ] Training time today: _______ hours
-- [ ] Goal met? (Yes/No)
-- [ ] Consistency streak: _____ days
+- [ ] Training time today: ___1___ hours
+- [ V] Goal met? (Yes/No)
+- [ ] Consistency streak: __0__ days
 
 **Points:**
 
 - 2+ hours = 10 points
-- 1-2 hours = 5 points
+- 1-2 hours = 5 points 5
 - <1 hour = 2 points
 - Missed day = 0 points (streak resets)
 
@@ -21,21 +21,21 @@
 
 | Difficulty      | Challenges Solved | Points Earned |
 | --------------- | ----------------- | ------------- |
-| Easy            | _____ × 5 pts     | _____         |
+| Easy            | __5___ × 5 pts     | ___25__         |
 | Medium          | _____ × 15 pts    | _____         |
 | Hard            | _____ × 30 pts    | _____         |
 | Expert          | _____ × 50 pts    | _____         |
-| **Daily Total** |                   | **_____**     |
+| **Daily Total** |                   | **__25__**     |
 
 ### 3. Quality Indicators
 
-- [ ] Created writeup for at least 1 challenge (+10 pts)
+- [V ] Created writeup for at least 1 challenge (+10 pts) 
 - [ ] Reviewed 3+ writeups from others (+5 pts)
-- [ ] Learned new technique/tool (+10 pts)
+- [V ] Learned new technique/tool (+10 pts)
 - [ ] Updated cheat sheet (+5 pts)
 - [ ] Practiced timed challenge (+5 pts)
 
-**Quality Points Total:** _____
+**Quality Points Total:** ___20__
 
 ### 4. Category Focus Today
 
@@ -43,15 +43,15 @@ Which categories did you practice?
 
 - [ ] Web Exploitation
 - [ ] Binary Exploitation / Pwn
-- [ ] Cryptography
+- [v ] Cryptography
 - [ ] Reverse Engineering
 - [ ] Forensics
 - [ ] OSINT
 - [ ] Other: ___________
 
-**Primary Specialty:** _____ minutes
+**Primary Specialty:** ___61__ minutes
 
-**Secondary Specialty:** _____ minutes
+**Secondary Specialty:** __0__ minutes
 
 **Other Categories:** _____ minutes
 
@@ -59,16 +59,16 @@ Which categories did you practice?
 
 **What went well today?**
 
----
+--- Understanding XOR combinations
 
 **What challenged you?**
 
----
+--- Implementing XOR combinations in python
 
 **Key learning:**
 
----
+--- XOR combinations, Combination of both ASCII, Base64, Base10 and XOR
 
 **Tomorrow's focus:**
 
----
+--- MOdular arithmetic
