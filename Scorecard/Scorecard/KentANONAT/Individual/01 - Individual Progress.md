@@ -2,30 +2,30 @@
 
 ## Daily Training Log
 
-**Date:** ______Feb 16 25________ | **Training Day:** _3_/180 (or _3_/90 for 3-month plan)
+**Date:** _______________ | **Training Day:** ___/180 (or ___/90 for 3-month plan)
 
 ### 1. Time Investment
 
-- [ ] Training time today: ____0.2___ hours
+- [ ] Training time today: _______ hours
 - [ ] Goal met? (Yes/No)
-- [ ] Consistency streak: __1___ days
+- [ ] Consistency streak: _____ days
 
 **Points:**
 
 - 2+ hours = 10 points
 - 1-2 hours = 5 points
-- <1 hour = 2 points 2
+- <1 hour = 2 points
 - Missed day = 0 points (streak resets)
 
 ### 2. Challenge Completion
 
 | Difficulty      | Challenges Solved | Points Earned |
 | --------------- | ----------------- | ------------- |
-| Easy            | __2___ × 5 pts     | __10___         |
+| Easy            | _____ × 5 pts     | _____         |
 | Medium          | _____ × 15 pts    | _____         |
 | Hard            | _____ × 30 pts    | _____         |
 | Expert          | _____ × 50 pts    | _____         |
-| **Daily Total** |                   | **__10___**     |
+| **Daily Total** |                   | **_____**     |
 
 ### 3. Quality Indicators
 
@@ -43,13 +43,13 @@ Which categories did you practice?
 
 - [ ] Web Exploitation
 - [ ] Binary Exploitation / Pwn
-- [ V] Cryptography
+- [ ] Cryptography
 - [ ] Reverse Engineering
 - [ ] Forensics
 - [ ] OSINT
 - [ ] Other: ___________
 
-**Primary Specialty:** _20___ minutes
+**Primary Specialty:** _____ minutes
 
 **Secondary Specialty:** _____ minutes
 
@@ -63,7 +63,7 @@ Which categories did you practice?
 
 **What challenged you?**
 
----Complex Algorithms
+---
 
 **Key learning:**
 
@@ -71,4 +71,4 @@ Which categories did you practice?
 
 **Tomorrow's focus:**
 
----Relearning mdoualr arithmethic and solving it in code(python)
+---
