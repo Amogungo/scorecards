@@ -29,13 +29,13 @@
 
 ### 3. Quality Indicators
 
-- [V ] Created writeup for at least 1 challenge (+10 pts) 10
-- [ ] Reviewed 3+ writeups from others (+5 pts)
+- [ ] Created writeup for at least 1 challenge (+10 pts) 
+- [V ] Reviewed 3+ writeups from others (+5 pts)
 - [ ] Learned new technique/tool (+10 pts)
 - [ ] Updated cheat sheet (+5 pts)
 - [ ] Practiced timed challenge (+5 pts)
 
-**Quality Points Total:** _10____
+**Quality Points Total:** _5____
 
 ### 4. Category Focus Today
 
