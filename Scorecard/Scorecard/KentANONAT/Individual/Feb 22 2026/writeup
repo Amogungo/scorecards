@@ -1,0 +1,9 @@
+interencdec:
+Pretty simple, just decode to base64 twice and you get a half code, found out it was a ceasar cipher and decoded it into:
+picoCTF{caesar_d3cr9pt3d_b204adc6}
+
+Crack the Power(both challenges are from picoCTF):
+Difficult for me to answer, i was very confused on how to solve it and its many symbols in math. 
+I asked the AI on what this means to which it gave me knowledge than N was not needed as e was too small(20) that n wasnt 
+required,so with the formula and help with the AI, i made a code that inputs the key of c and constantly refines it till
+x multiplied by itself k times equals to n. getting the flag.
