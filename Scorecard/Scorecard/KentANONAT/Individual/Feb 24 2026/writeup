@@ -1,0 +1,5 @@
+Guess my cheese(part 1) took 30 minutes:
+So this was not something i was familiar with, it gave me the command, then began understanding what i meant, i didnt realize at first 
+that you had to press e and g on the command line, then i asked AI what it was talking about , it found out it was a affine cipher and
+i started coding for the algorithm it used, it randomized everytime i had reset because the command line would conect out of PICOCTF website, 
+the last values were 19 and 2 and submitted my flag.
