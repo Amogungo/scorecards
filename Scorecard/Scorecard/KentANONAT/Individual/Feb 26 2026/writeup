@@ -1,0 +1,10 @@
+hidden Registry:
+The fiel given was a pdf file, i opened and foudn nothing in it, i asked in ahint, which i foudn out i can turn it into 
+a txt file, there i found a unknown author, and asked another about it, 
+i then decode it in mingw which gave me the flag, it was in base64
+
+Hidden in Plainsight:
+the file given was a jpg file, learning from the first one i decided to turn it in txt, 
+found a unknown  code that was odd, i then tried ciphers which didnt work, 
+i asked a hint which i need to extract from steghide, in which i needed a exiftool, 
+"pAssword" i got and used it fro the key to get th flag.
