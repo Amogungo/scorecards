@@ -1,0 +1,18 @@
+Lvl 1 -> 2
+
+Goal: The password is stored in a file called - .
+
+Command used:
+
+ls
+cat ./'-'
+
+//
+" - " is treated as a special character/
+./- tells the system ut is a file in the currecnt directory
+
+##
+Encasing the file with single quotes ('') or with double quotes ("") would still work, and for me it is more proper than without one
+
+Code:
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
