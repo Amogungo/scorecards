@@ -1,0 +1,15 @@
+Lvl 9 -> 10
+
+Goal: The password for the next level is stored in the file data.txt in one of the few human-readable strings, preceded by several ‘=’ characters.
+
+Command used:
+strings data.txt | grep ===
+
+//
+strings -> extracts readable text from binary files.
+
+##
+use === for a more cleaner output than having only =
+
+Code:
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
