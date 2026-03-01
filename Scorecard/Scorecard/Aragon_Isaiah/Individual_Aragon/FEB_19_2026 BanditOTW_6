@@ -1,0 +1,27 @@
+Lvl 6 -> 7
+
+Goal: The password for the next level is stored somewhere on the server and has all of the following properties:
+
+owned by user bandit7
+owned by group bandit6
+33 bytes in size
+
+Command used:
+
+find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
+cat /var/lib/dpkg/info/bandit7.password
+
+//
+'find /' -> Search the entire system
+-type f -> Human-Readable
+-user bandit7 -> Owned by bandit7
+-group bandit6 -> Owned by group bandit6
+-size 33c -> 33 bytes
+2>/dev/null -> removes(transfers) permission denied errors (into another)
+
+##
+OH DEAR if you don't add '2>/dev/null' <Try it if you dare>
+P.S it was not much but <Roblox oof noise> 
+
+Code:
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
