@@ -1,0 +1,27 @@
+Lvl 5 -> 6
+
+Goal: The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties:
+
+human-readable
+1033 bytes in size
+not executable.
+
+Command used:
+
+ls
+cd inhere
+find . -type f -size 1033c ! -executable
+cat ./maybehere07/.file2 
+
+//
+-type f -> Human-Readable
+-size 1033c -> 1033 bytes
+! -executable -> not executable
+find searchs files based on the conditions
+'find .' -> "starting with this very directory"
+
+##
+Make sure to list out all the needed commands, to do it in one go and to avoid complication
+
+Code:
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
