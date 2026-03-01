@@ -1,0 +1,21 @@
+Lvl 4 -> 5
+
+Goal: Password is in the only human-readable file inside a directory.
+
+Command used:
+
+ls
+cd inhere
+ls
+file ./*
+cat ./-file07
+
+//
+* includes everything
+file -> checks file type
+
+##
+ASCII is the humman readable file
+
+Code:
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
