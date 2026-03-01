@@ -1,0 +1,16 @@
+Lvl 2 -> 3
+
+Goal: The password is in a file with spaces in its name.
+
+Command used:
+ls
+cat ./'--spaces in this filename--'
+
+//
+Quotation marks are used to handle filenames with spaces.
+
+##
+Still it is a more proper way with or without spaces to use Quotation marks, in my opinion
+
+Code:
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
