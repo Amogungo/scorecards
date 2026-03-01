@@ -1,0 +1,18 @@
+Lvl 3 -> 4
+
+Goal: Password is inside a hidden file.
+
+Command used:
+
+ls
+cd inhere
+ls -al
+cat '...Hiding-From-You'
+
+//
+ls -al -> Lists all files in the directory including hidden files
+ls -a -> shows hidden files
+files starting with . are hidden in Linux
+
+Code:
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
