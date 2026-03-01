@@ -1,0 +1,51 @@
+Lvl 12 -> 13
+
+Goal: The password for the next level is stored in the file data.txt, which is a hexdump of a file that has been repeatedly compressed. For this level it may be useful to create a directory under /tmp in which you can work. Use mkdir with a hard to guess directory name. Or better, use the command “mktemp -d”. Then copy the datafile using cp, and rename it using mv (read the manpages!)
+
+Command used:
+
+cd /tmp
+mktemp -d
+cd /tmp/tmp.W5t1vua6G9 (usually it's random)
+cp ~/data.txt .
+mv data.txt hex_data
+
+cat hex_data | head
+
+xxd -r hex_data c_data
+mv c_data c_data.gz
+gzip -d c_data.gz
+
+xxd compressed_data
+
+mv c_data c_data.bz2
+bzip2 -d c_data.bz2
+mv c_data c_data.gz
+gzip -d c_data.gz
+
+cat compressed_data 
+
+mv c_data c_data.tar
+tar -xf c_data.tar
+tar -xf data5.bin
+
+xxd data6.bin
+
+bzip2 -d data6.bin
+tar -xf data6.bin.out
+xxd data8.bin
+mv data8.bin data8.gz
+cat data8
+
+//
+
+xxd -r → Reverse hexdump back to binary.
+file → Identify file type.
+gzip, gzip2, tar -xf → Extract compressed files.
+
+##
+SUFFER and encode it yourself to find the password this time
+cat or xxd -> usually the same output...
+
+Code: 
+SUFFER like I did and find it yourself
