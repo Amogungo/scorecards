@@ -1,0 +1,23 @@
+Lvl 0 -> 1
+
+Goal: Find the password for the next level.
+
+Login Info:
+  Host: bandit.labs.overthewire.org
+  Port: 2220
+  Username: bandit0
+  Password: bandit0
+
+Command used:
+
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+ls
+cat readme
+
+//
+ssh -> Connect to the Bandit server
+ls -> List files in the directory
+cat -> To read, display, and concatenate text files
+
+Code:
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
