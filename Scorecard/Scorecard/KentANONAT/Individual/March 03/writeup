@@ -1,0 +1,7 @@
+First level 0:
+mostly adding using power sheel to enter and added into bandit 0 in over the wire;
+typing ssh bandit0@bandit.labs.overthewire.org -p 2220 from a guide and got in the level
+
+Level 1:
+First level i need to find the passowrd for bandit 1, i used cat into the readme file inside the bandit0 account
+and copied the password into bandit 1 with the ssh command and entered the first level.
