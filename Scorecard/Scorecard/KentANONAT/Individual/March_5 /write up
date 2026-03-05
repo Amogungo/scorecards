@@ -1,0 +1,13 @@
+LEvel 3 -
+the LEvel had a file with ad dash -, i tried to open it but breaks with cat, 
+i looked up why with hints and searching and it mistakes it for a command
+all you have to do is specify with cat -- - and i read the file.
+
+Level 4 -
+the file had a name called --this file has spaces on it-- and could not be read
+you had to apprently sepcify its white spaces by using slashes \ and -- to ignore command line
+mistakes, and i got the code for level 5.
+
+LEvel 5 -
+This one was not that difficult as all you need was to look at the files inside of it, fouund it on theseventh
+directory.
