@@ -1,0 +1,15 @@
+Meta! meta! meta! meta...................................
+
+https://tryhackme-vm-upload.s3.eu-west-1.amazonaws.com/Find_me_1577975566801.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA2YR2KKQMWLXEMXW4%2F20260305%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260305T014043Z&X-Amz-Expires=120&X-Amz-Signature=6825f55b735511bf9b5ad6f2af07c69b660044d382745c4bd431d44afde49c1c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject
+
+Tools used:
+EXIF tool = https://exif.tools/
+
+Answer the questions below
+I'm hungry, I need the flag.
+
+##
+Owner Name: <Code>
+
+Code:
+THM{3x1f_0r_3x17}
