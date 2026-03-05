@@ -1,0 +1,12 @@
+Can you decode it?
+
+3agrSy1CewF9v8ukcSkPSYm3oKUoByUpKG4L
+
+Answer the questions below
+Oh, Oh, Did you get it?
+
+Tools Used:
+Base 58 decoder = https://www.dcode.fr/base-58-cipher
+
+Code:
+THM{17_h45_l3553r_l3773r5}
