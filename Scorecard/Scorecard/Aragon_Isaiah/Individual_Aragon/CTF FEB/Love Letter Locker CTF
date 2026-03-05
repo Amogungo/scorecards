@@ -1,0 +1,17 @@
+Goal: 
+My Dearest Hacker,
+Welcome to LoverLetterLocker, where you can safely write and store your Valentine's letters. For your eyes only?
+
+You can access the web app here:
+https://tryhackme.com/module/lafbctf2026
+
+##
+Log in using:
+Email/User: Anon
+Password: Anon
+
+Made a temporary letter
+Manipulate the URL from .../3 to .../1  
+
+Code:
+THM{1_c4n_r3ad_4all_l3tters_w1th_th1s_1d0r}
