@@ -1,0 +1,19 @@
+Goal: 
+My Dearest Hacker,
+Cupid's Vault was designed to protect secrets meant to stay hidden forever. Unfortunately, Cupid underestimated how determined attackers can be.
+Intelligence indicates that Cupid may have unintentionally left vulnerabilities in the system. With the holiday deadline approaching, you've been tasked with uncovering what's hidden inside the vault before it's too late.
+You can find the web application here:
+
+You can access the web app here:
+https://tryhackme.com/module/lafbctf2026
+
+Commands used:
+dirb
+
+##
+Used dirb
+Copy the robots.txt url
+Manipulate the URL and adding the additional fragments  
+
+Code:
+THM{l0v3_is_in_th3_r0b0ts_txt}
