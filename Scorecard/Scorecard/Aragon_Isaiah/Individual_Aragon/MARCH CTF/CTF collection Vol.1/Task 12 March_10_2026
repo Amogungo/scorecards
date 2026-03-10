@@ -1,0 +1,17 @@
+Some hidden flag inside Tryhackme social account.
+
+Did you found the hidden flag?
+
+Tools used:
+Google
+WayBackMachine (Mandatory, since it got deleted)
+
+##
+Initially started with this " site:reddit.com & intext:”THM” ", but
+Account got deleted... 
+
+Copy the link
+You can use the WayBackMachine lol
+
+Code:
+THM{50c14l_4cc0un7_15_p4r7_0f_051n7}
