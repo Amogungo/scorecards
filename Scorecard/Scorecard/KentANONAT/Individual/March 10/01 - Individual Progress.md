@@ -2,18 +2,18 @@
 
 ## Daily Training Log
 
-**Date:** _______________ | **Training Day:** ___/180 (or ___/90 for 3-month plan)
+**Date:** _________March 10______ | **Training Day:** _13__/180 (or _3__/90 for 3-month plan)
 
 ### 1. Time Investment
 
-- [ ] Training time today: _______ hours
-- [ ] Goal met? (Yes/No)
-- [ ] Consistency streak: _____ days
+- [ ] Training time today: ____1___ hours
+- [V ] Goal met? (Yes/No)
+- [ ] Consistency streak: ___5__ days
 
 **Points:**
 
 - 2+ hours = 10 points
-- 1-2 hours = 5 points
+- 1-2 hours = 5 points 5
 - <1 hour = 2 points
 - Missed day = 0 points (streak resets)
 
@@ -21,35 +21,35 @@
 
 | Difficulty      | Challenges Solved | Points Earned |
 | --------------- | ----------------- | ------------- |
-| Easy            | _____ × 5 pts     | _____         |
-| Medium          | _____ × 15 pts    | _____         |
+| Easy            | __1___ × 5 pts     | ____5_         |
+| Medium          | ___4__ × 15 pts    | __60___         |
 | Hard            | _____ × 30 pts    | _____         |
 | Expert          | _____ × 50 pts    | _____         |
-| **Daily Total** |                   | **_____**     |
+| **Daily Total** |                   | **__65___**     |
 
 ### 3. Quality Indicators
 
-- [ ] Created writeup for at least 1 challenge (+10 pts)
+- [V ] Created writeup for at least 1 challenge (+10 pts)
 - [ ] Reviewed 3+ writeups from others (+5 pts)
-- [ ] Learned new technique/tool (+10 pts)
+- [V ] Learned new technique/tool (+10 pts)
 - [ ] Updated cheat sheet (+5 pts)
 - [ ] Practiced timed challenge (+5 pts)
 
-**Quality Points Total:** _____
+**Quality Points Total:** _20____
 
 ### 4. Category Focus Today
 
 Which categories did you practice?
 
 - [ ] Web Exploitation
-- [ ] Binary Exploitation / Pwn
+- [V ] Binary Exploitation / Pwn
 - [ ] Cryptography
 - [ ] Reverse Engineering
 - [ ] Forensics
 - [ ] OSINT
 - [ ] Other: ___________
 
-**Primary Specialty:** _____ minutes
+**Primary Specialty:** __60___ minutes
 
 **Secondary Specialty:** _____ minutes
 
@@ -59,16 +59,16 @@ Which categories did you practice?
 
 **What went well today?**
 
----
+--- Advancing in Wargame
 
 **What challenged you?**
 
----
+--- Learning new syntax to follow in the next levels
 
 **Key learning:**
 
----
+--- Process of the wargames, knowing base64 syntax, knwoing gerp, using find is useful in the baandit games
 
 **Tomorrow's focus:**
 
----
+--- Advancing more in the badnit wargame
