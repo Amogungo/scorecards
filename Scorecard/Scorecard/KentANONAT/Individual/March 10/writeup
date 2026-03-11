@@ -1,5 +1,13 @@
-Level 6
-LEvel 7 
-Level 8
-Level 9
-Level 10
+Level 6 - 7 -- needed to find a password which was owned by user7 yet grouped with user6,
+and 33 byte size, the command i need was find and a specific file, which is file to find the passowrd inside,
+-user for user 7, -group to know who shares the file to which is user6 and the -size which was 33c, and found the pasword.
+LEvel 7 - 8  --this had many files names and i need to find the code next to millionth, iasked the AI on what it should be and it said
+that using grep identifies the word millionth with it on using cat file on data.txt.
+Level 8 - 9  --this one had many fakepassword and i needed to find the right one, so i used uniq -u in sort command,
+sort command according to the ai sorts the file content from a-z, it also can identify compared to cat, however uniq -u
+was used, allowing me to avoid repeating lines of fake passwords in the file.
+Level 9 - 10  -- A confusing start, the text file was jumbled, i asked the ai what was wrong with it and it told me on
+about it being converted to string and using gerp given by the instructions from the bandit website. strings data.txt | grep ===
+and found the password inside.
+Level 10 - 11 -- Code was hinted to be base64 from the hint given, i tried base64 the data, wasnt the password, i had to apparently used 
+-d which was to inform it to decode the file, base64 as is encodes it more.
