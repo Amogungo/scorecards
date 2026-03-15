@@ -1,0 +1,20 @@
+Title: where are the robots
+
+Can you find the robots?
+Additional details will be available after launching your challenge instance.
+
+link used:
+http://fickle-tempest.picoctf.net:64677
+
+Hint:
+What part of the website could tell you where the creator doesn't want you to look?
+
+
+Methods used:
+/robots.txt
+
+##
+Copy paste the .html
+
+Code:
+picoCTF{ca1cu1at1ng...}
