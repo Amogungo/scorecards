@@ -1,0 +1,30 @@
+Title: logon
+
+The factory is hiding things from all of its users.
+Additional details will be available after launching your challenge instance.
+
+link used:
+http://fickle-tempest.picoctf.net:52004
+
+Hint:
+Hmm it doesn't seem to check anyone's password, except for Joe's?
+
+
+Methods used:
+F12
+Modify Admin access
+
+##
+Go to Network
+Find and click on flag
+Click cookies
+Notice the admin=False
+
+Right click on flag and copy as cURL (bash)
+Change from admin=False to True
+
+###
+It's a longer process... but it shows the how it works... I guess...
+
+Code:
+picoCTF{th3_c0ns...}
