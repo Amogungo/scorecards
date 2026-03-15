@@ -1,0 +1,23 @@
+Title: dont-use-client-side
+
+Can you break into this super secure portal?
+Additional details will be available after launching your challenge instance.
+
+link used:
+http://fickle-tempest.picoctf.net:65393
+
+Hint:
+Never trust the client
+
+
+Methods used:
+View Page Source
+
+##
+Fix it together
+
+###
+WEW... so BLUE
+
+Code:
+picoCTF{no_cli...}
