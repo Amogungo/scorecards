@@ -1,0 +1,25 @@
+Title: Scavenger Hunt
+
+There is some interesting information hidden around this site. Can you find it?
+Additional details will be available after launching your challenge instance.
+
+link used:
+http://wily-courier.picoctf.net:64395/
+
+Hint:
+You should have enough hints to find the files, don't run a brute forcer.
+
+Methods used:
+Right click and Inspect
+.htaccess
+.DS_Store
+
+##
+.htaccess = configuration file used by Apache web servers to control settings for directories.
+.DS_Store = macOS system file that stores folder metadata. 
+
+###
+It is a lot of places...
+
+Code:
+picoCTF{th4ts_4_l0t...}
