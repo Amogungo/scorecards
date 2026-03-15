@@ -1,0 +1,30 @@
+Title: Cookies
+
+Who doesn't love cookies? Try to figure out the best one.
+Additional details will be available after launching your challenge instance.
+
+link used:
+http://wily-courier.picoctf.net:58644
+
+Hint:
+NONE
+
+Tools Used:
+Cookie editor extension
+
+Methods used:
+Right click and Inspect
+Network
+click on 'check'
+Cookie
+
+##
+Manipulate the value inside name from (0-100)
+
+###
+Cookie monster will be proud
+
+Code:
+picoCTF{3v3ry1...}
+
+07-EasyCTF Scavenger_Hunt writeup
