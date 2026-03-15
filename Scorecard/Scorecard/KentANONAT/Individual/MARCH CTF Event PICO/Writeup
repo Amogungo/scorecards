@@ -1,2 +1,14 @@
 14-15(cTF event on picoctf) trying to binary exploit:
+Quizploit:
+ this was the first binary exploitation i tried looked easy, until opening it and finding out its aquiz.
+it was different to the badnit game and did not understand even to identify , so i asked theAI how to access the file and read 
+what were the things i needed to find, first it asked what was the ELF file in? 32-bit or 64-bit, i typed 64-bit and moved on, 
+i only saw the ELF file in basic form without remodeling it, then it asked what was the linking of binary,
+and it was dynamic from the command file vuln, viewing the files properties, and finding out it was not stripped,
+next the vuln()buffer size, checking the code it was 0x15, the buffer size read being 0x90, and it then asked
+if there was a vulnerability in the code, yes and it was a buffer overflow from the fgets while win() wasnt used in the program
+at all. then i found out how many possible bytes were possible from the overflow, by subtracting the fgets and buffer to get 0x7B
+NExt finding what protection is enabled, i thought RELRO but it was NX enabled, which could be bypassed by ROP. the last question was
+what was the address in win() in hex? of course when typed the nm then file you would get 0000000000401176 which can be translated
+in hex to 0x401176, then i got the flag. picoCTF{my_bIn@4y_3xpl0it_fL@g_0969fdeb}
 
