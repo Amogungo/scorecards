@@ -1,0 +1,23 @@
+Title: Insp3ct0r
+
+Kishor Balan tipped us off that the following code may need inspection:
+
+link used:
+http://fickle-tempest.picoctf.net:52501
+
+Hint:
+How do you inspect web code on a browser?
+There's 3 parts
+
+
+Methods used:
+Right click then inspect
+
+##
+Find comments '<!--'
+
+###
+Better search in Sources to have the already expanded version
+
+Code:
+picoCTF{tru3_d3...
