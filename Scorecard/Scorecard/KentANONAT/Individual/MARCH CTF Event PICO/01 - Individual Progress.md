@@ -71,4 +71,4 @@ Which categories did you practice?
 
 **Tomorrow's focus:**
 
---- PicoCTF basica binary exploitation and understanding other attacks
+--- PicoCTF basica binary exploitation and understanding other vulnerabilities
