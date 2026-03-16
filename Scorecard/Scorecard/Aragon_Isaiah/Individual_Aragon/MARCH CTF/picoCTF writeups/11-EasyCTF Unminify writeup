@@ -1,0 +1,22 @@
+Title: Unminify
+
+I don't like scrolling down to read the code of my website, so I've squished it. As a bonus, my pages load faster!
+
+link used:
+http://titan.picoctf.net:51752/
+
+Hint:
+Try CTRL+U / ⌘+U in your browser to view the page source. You can also add 'view-source:' before the URL, or try curl <URL> in your shell.
+Minification reduces the size of code, but does not change its functionality.
+What tools do developers use when working on a website? Many text editors and browsers include formatting..
+
+Methods used:
+Right click and Inspect
+
+##
+ctrl + f
+'pico'
+or just do it manually lol
+
+Code:
+picoCTF{pr3tty...}
