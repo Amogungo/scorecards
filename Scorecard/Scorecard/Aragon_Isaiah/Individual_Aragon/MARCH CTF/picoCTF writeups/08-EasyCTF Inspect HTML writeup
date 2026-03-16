@@ -1,0 +1,18 @@
+Title: Inspect HTML
+
+Can you get the flag?
+
+link used:
+http://saturn.picoctf.net:60440
+
+Hint:
+What is the web inspector in web browsers?
+
+Methods used:
+Right click and Inspect
+
+##
+Find the comment <!--
+
+Code:
+picoCTF{1n5p3...}
