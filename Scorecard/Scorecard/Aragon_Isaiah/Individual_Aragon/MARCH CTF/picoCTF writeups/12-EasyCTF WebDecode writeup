@@ -1,0 +1,21 @@
+Title: WebDecode
+
+Do you know how to use the web inspector?
+
+link used:
+http://titan.picoctf.net:60843/
+
+Hint:
+Use the web inspector on other files included by the web page.
+The flag may or may not be encoded
+
+Methods used:
+Browse through every interactables
+Inspect or View page Source
+Decode base64
+
+##
+That's all ABOUT it really...
+
+Code:
+picoCTF{web_su...}
