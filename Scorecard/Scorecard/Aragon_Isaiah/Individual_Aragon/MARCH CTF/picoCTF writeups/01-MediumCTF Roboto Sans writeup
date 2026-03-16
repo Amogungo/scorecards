@@ -1,0 +1,24 @@
+Title: Roboto Sans
+
+The flag is somewhere on this web application not necessarily on the website. Find it.
+
+link used:
+http://saturn.picoctf.net:52177/
+
+Hint:
+Developers sometimes leave notes in the code; but not always in plain text.
+A common trick is to rotate each letter by 13 positions in the alphabet.
+
+Methods used:
+Add robots.txt
+Decode Base64
+Replace robots with the Decoded message
+
+##
+SNAS DANCE -SR PELO
+
+###
+I'm Bored
+
+Code:
+picoCTF{Who_D0...}
