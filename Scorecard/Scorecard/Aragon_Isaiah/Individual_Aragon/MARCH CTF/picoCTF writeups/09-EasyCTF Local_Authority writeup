@@ -1,0 +1,20 @@
+Title: Local Authority
+
+Can you get the flag?
+
+link used:
+http://saturn.picoctf.net:60440
+
+Hint:
+How is the password checked on this website?
+
+Methods used:
+Test with 'anon' as username & 'anon' as password
+Right click and Inspect
+Source
+
+##
+Find the secure.js
+
+Code:
+picoCTF{j5_...}
