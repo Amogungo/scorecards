@@ -12,3 +12,8 @@ NExt finding what protection is enabled, i thought RELRO but it was NX enabled, 
 what was the address in win() in hex? of course when typed the nm then file you would get 0000000000401176 which can be translated
 in hex to 0x401176, then i got the flag. picoCTF{my_bIn@4y_3xpl0it_fL@g_0969fdeb}
 
+Echo Escape:
+now that i learned from the previous CTF, i decide to go with echo escape 1. at first the exploit and file was given, with no
+other option i asked the ai what to do first, i tried to connect on the server, and it asked for my naame, gave it random words
+and sometimes it spits with @a, then i asked what i should do, first i made an exploit that grabbed the code from the server,
+by using the buffer vulnerability in the code i got the flag picoCTF{3ch0_s3rv1c3_br34k5_22f4ab1e}
