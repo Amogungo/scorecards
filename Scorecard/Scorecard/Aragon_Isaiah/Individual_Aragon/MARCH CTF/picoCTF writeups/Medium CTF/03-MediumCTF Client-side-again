@@ -1,0 +1,24 @@
+Title: Client-side-again
+
+Can you break into this super secure portal?
+
+link used:
+http://fickle-tempest.picoctf.net:57793
+
+Hint:
+What is obfuscation?
+
+Methods used:
+F12
+Notepad...
+
+##
+_0x5a46 <= is the obfuscation part
+It makes the lines jumbled into a complete mess by itself
+
+###
+I just totally winged it...
+I guess there was some logic in it Iguess
+
+Code:
+picoCTF{not_...}
