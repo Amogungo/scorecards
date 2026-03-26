@@ -1,0 +1,36 @@
+Title: Irish-Name-Repo 3
+
+Try to see if you can login as admin!
+
+link used:
+http://fickle-tempest.picoctf.net:62942
+
+Hint:
+Seems like the password is encrypted.
+
+Method used:
+SQL injection
+Caesar cipher / Rot13
+
+History;
+
+Password: ab
+-Login Failed-
+F12 and check Network
+check payload in login.php
+copy cURL(Bash)
+tweak "password=ab&debug=0" to debug=1
+Replied with //SQL query: SELECT * FROM admin where password = 'no'//
+
+Return back to Login Page
+Modify my Password: ab'BE'1'='1
+
+##
+https://www.w3schools.com/sql/sql_injection.asp
+https://www.dcode.fr/rot-13-cipher
+13
+###
+Same process but this time with BE since after encryption it returns as OR thereby follows the rule of "Irish-Name-Repo 3"
+
+Code:
+picoCTF{3v3n_m0r3...}
