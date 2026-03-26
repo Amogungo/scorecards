@@ -1,0 +1,29 @@
+Title: Irish-Name-Repo 2
+
+Someone has bypassed the login before, and now it's being strengthened. Try to see if you can still login!
+
+link used:
+http://fickle-tempest.picoctf.net:63209
+
+Hint:
+the password is being filtered
+
+Method used:
+SQL injection
+
+History;
+
+Username: admin
+Password: a'OR'1'='1
+-SQL Detected-
+Modify Username: admin'--
+
+##
+https://www.w3schools.com/sql/sql_injection.asp
+
+###
+Same process but this time with '-- which forcibly pass by the password field
+You can use this same method with the first one "Irish-Name-Repo 1"
+
+Code:
+picoCTF{m0R3_SQL...}
