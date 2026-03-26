@@ -1,0 +1,33 @@
+Title: picobrowser
+
+This website can be rendered only by picobrowser, go and catch the flag!
+
+link used:
+http://fickle-tempest.picoctf.net:54280
+
+Hint:
+You don't need to download a new web browser
+
+Method used:
+ModHeader extension
+
+History;
+
+Clicked on Flag
+Replied with "You're not picobrowser! Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+
+F12 and check Network
+check Headers in flag
+copy cURL(BASH)
+tweak User-Agent to have the value "picobrowser"
+
+##
+I got nothing... really
+
+###
+It's direct to the point...
+Though you can access the flag without the extension or not
+I just can't see very fine prints
+
+Code:
+picoCTF{p1c0_s3cr...}
