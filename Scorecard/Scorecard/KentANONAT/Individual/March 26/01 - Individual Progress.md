@@ -2,13 +2,13 @@
 
 ## Daily Training Log
 
-**Date:** _______________ | **Training Day:** ___/180 (or ___/90 for 3-month plan)
+**Date:** _________March 26 2026_____ | **Training Day:** _19__/180 (or _19__/90 for 3-month plan)
 
 ### 1. Time Investment
 
-- [ ] Training time today: _______ hours
+- [ ] Training time today: _____0.3__ hours
 - [ ] Goal met? (Yes/No)
-- [ ] Consistency streak: _____ days
+- [ ] Consistency streak: _0____ days
 
 **Points:**
 
@@ -31,11 +31,11 @@
 
 - [ ] Created writeup for at least 1 challenge (+10 pts)
 - [ ] Reviewed 3+ writeups from others (+5 pts)
-- [ ] Learned new technique/tool (+10 pts)
+- [ V] Learned new technique/tool (+10 pts)
 - [ ] Updated cheat sheet (+5 pts)
 - [ ] Practiced timed challenge (+5 pts)
 
-**Quality Points Total:** _____
+**Quality Points Total:** __10___
 
 ### 4. Category Focus Today
 
@@ -44,12 +44,12 @@ Which categories did you practice?
 - [ ] Web Exploitation
 - [ ] Binary Exploitation / Pwn
 - [ ] Cryptography
-- [ ] Reverse Engineering
+- [V ] Reverse Engineering
 - [ ] Forensics
 - [ ] OSINT
 - [ ] Other: ___________
 
-**Primary Specialty:** _____ minutes
+**Primary Specialty:** __30___ minutes
 
 **Secondary Specialty:** _____ minutes
 
@@ -59,7 +59,7 @@ Which categories did you practice?
 
 **What went well today?**
 
----
+--- Understanding GNU debugger
 
 **What challenged you?**
 
@@ -67,8 +67,8 @@ Which categories did you practice?
 
 **Key learning:**
 
----
+--- 
 
 **Tomorrow's focus:**
 
----
+--- Full debuggin of files to understand buffer overflow
