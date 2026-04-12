@@ -1,0 +1,197 @@
+Natas Level 0->1;
+
+Username: natas0
+*Password: natas0
+URL:      http://natas0.natas.labs.overthewire.org
+
+* Password is hidden inside the source
+
+Process:
+Right click
+View Page Source (Ctrl + U)
+
+##
+You can technically use Inspect (F12) and still achieve the same result
+
+Password: 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
+
+Natas Level 1->2;
+
+Username: natas1
+URL:      http://natas1.natas.labs.overthewire.org
+
+* Password is hidden inside the source
+** Right-click is disabled
+
+Process:
+View Page Source (Ctrl + U)
+
+##
+You can still technically use F12 and still achieve the same result
+
+Password: TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI
+
+Natas Level 2->3;
+
+Username: natas2
+URL:      http://natas2.natas.labs.overthewire.org
+
+*Passwords are within folders
+
+Process:
+F12
+Checks Sources
+## Notice where the pixel.png is placed
+adding "/files" with the current url
+clicked on a text file
+
+## 
+F12 is more reliable here than View Page Source
+Folders are some places to check
+
+Password: 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
+
+Natas Level 3->4;
+
+Username: natas3
+URL:      http://natas3.natas.labs.overthewire.org
+
+*<!-- No more information leaks!! Not even Google will find it this time... -->
+
+Process:
+F12
+Checks Sources
+## Noticing the mention of Google
+adding "/robots.txt" with the current url
+replace "/robots.txt" with a path 
+clicked on a text file
+
+## 
+robots.txt => tells search engine crawlers which URLs the crawler can access on your site
+
+Password: QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
+
+Natas Level 4->5;
+
+Username: natas4
+URL:      http://natas4.natas.labs.overthewire.org
+
+* Referer is at fault
+
+Process:
+F12
+Checks Networks, click index.php
+replace Referer from "natas4..." to natas5
+refresh*
+
+## 
+Consider using an extension, but if not just copy curl and just modify the Referer part
+
+Password: 0n35PkggAPm2zbEpOU802c0x0Msn1ToK
+
+Natas Level 5->6;
+
+Username: natas5
+URL:      http://natas5.natas.labs.overthewire.org
+
+* Referer is at fault
+
+Process:
+F12
+Checks Networks, click "http://natas5.natas.labs.overthewire.org/"
+replace cookie from "loggedin=0" to loggedin=1
+refresh*
+
+## 
+Consider using an extension, but if not just copy curl, find a line with "-b '_ga=GA1.1.147591..." and just modify the loggedin=0 part
+
+Password: 0RoJwHdSKWFTYR5WuiAewauSuNaBXned
+
+Natas Level 6->7;
+
+Username: natas6
+URL:      http://natas6.natas.labs.overthewire.org
+
+* Referer is at fault
+
+Process:
+Click on "View PageSource"
+copy from the index-source, "includes/..."
+paste it over the "/index..." with the copied fragment 
+add the password
+
+## 
+Basically "0 -> 1" all over again, but with extra steps
+
+Password: bmg8SvU1LizuWjx3y7xkNERkHxGre0GS
+
+Natas Level 7->8;
+
+Username: natas7
+URL:      http://natas7.natas.labs.overthewire.org
+
+* Referer is at fault
+
+Process:
+Switch between "Home" and "About"
+F12
+copy the hint given "/etc/natas_webpass/natas8"
+paste over the "...about" from the current curl
+
+
+## 
+just only "about"...
+
+
+Natas Level 8->9;
+
+Username: natas8
+URL:      http://natas8.natas.labs.overthewire.org
+
+* Referer is at fault
+
+Process:
+click on "View PageSource"
+decode the encodedSecret string
+bin2hex -> strrev -> base64
+
+
+## 
+follow the order when decoding
+
+Password: ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t
+
+Natas Level 9->10;
+
+Username: natas9
+URL:      http://natas9.natas.labs.overthewire.org
+
+
+Process:
+click on "View PageSource"
+try 'needle' as an example inside the interactable text field
+try ';ls -a;'
+try replacing using the example from natas7 "/etc/natas_webpass/..." with ';ls [insert here];'
+replace 'ls' with 'cat' instead...
+
+## 
+follow natas7
+It handles like in powershell cmd(Linux) 
+
+Password: t7I5VHvpa14sJTUGV0cbEsbYfFP2dmOu
+
+Natas Level 10->11;
+
+Username: natas10
+URL:      http://natas10.natas.labs.overthewire.org
+
+
+Process:
+click on "View PageSource"
+type 'a /etc/natas_webpass/natas11'
+
+## 
+similar to natas9 but rather than ";"
+you can use this same method for natas9
+
+Password: UJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk
